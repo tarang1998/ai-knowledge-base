@@ -15,6 +15,11 @@
     - Data acquisition
     - Data preparation
     - Feature engineering
+        - One hot encoding 
+        - Bag of word (BOW)
+        - TFIDF
+        - Word2Vec
+        - Transformers
     - Modeling
     - Evaluation
     - Deployment
@@ -23,3 +28,7 @@
 
 ## Resources 
 - [Generative AI for Developers – Comprehensive Course](https://www.youtube.com/watch?v=F0GQ0l2NfHA)
+- [A list of open LLMs available for commercial use.](https://github.com/eugeneyan/open-llms)
+- [Attention Is All You Need Research Paper - Transformer Architecture](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [Hugging face](https://huggingface.co/)
