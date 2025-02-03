@@ -25,6 +25,12 @@
     - Deployment
     - Monitoring and model updating 
 
+## Code 
+
+- [Text Preprocessing Template](./text_preprocessing_template.ipynb)
+- [Text Representation into vectors (Feature Engineering)](./text_representation.ipynb)
+- [Text Classification Example using Machine Learning Models](./Text_Classification_Example_.ipynb)
+- [Hugging Face Language Model Examples](./hugging_face.ipynb)
 
 ## Resources 
 - [Generative AI for Developers – Comprehensive Course](https://www.youtube.com/watch?v=F0GQ0l2NfHA)
