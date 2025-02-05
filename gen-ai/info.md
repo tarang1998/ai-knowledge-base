@@ -31,6 +31,10 @@
 - [Text Representation into vectors (Feature Engineering)](./text_representation.ipynb)
 - [Text Classification Example using Machine Learning Models](./Text_Classification_Example_.ipynb)
 - [Hugging Face Language Model Examples](./hugging_face.ipynb)
+- [Text Summarization using Language Models from hugging face](./Text_Summarizer.ipynb)
+- [Text to image generation using Language Models from hugging face](./TextToImageGeneration.ipynb)
+- [Text to speech generation using Language Models from hugging face](./TextToSpeechGeneration.ipynb)
+- [OpenAI API demo](./openai-demo/openai-demo.ipynb)
 
 ## Resources 
 - [Generative AI for Developers – Comprehensive Course](https://www.youtube.com/watch?v=F0GQ0l2NfHA)
@@ -38,3 +42,4 @@
 - [Attention Is All You Need Research Paper - Transformer Architecture](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Hugging face](https://huggingface.co/)
+- [OpenAI python API docs](https://github.com/openai/openai-python)
