@@ -35,6 +35,8 @@
 - [Text to image generation using Language Models from hugging face](./TextToImageGeneration.ipynb)
 - [Text to speech generation using Language Models from hugging face](./TextToSpeechGeneration.ipynb)
 - [OpenAI API demo](./openai-demo/openai-demo.ipynb)
+- [Telegram Chatbot using openAI API ](./telegram-chatbot/telegram_chatbot.py)
+- [Fine Tunning OpenAI Model for Classification Tasks](./FineTunningOpenAIModelForClassification.ipynb)
 
 ## Resources 
 - [Generative AI for Developers – Comprehensive Course](https://www.youtube.com/watch?v=F0GQ0l2NfHA)
