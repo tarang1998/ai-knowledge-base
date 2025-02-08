@@ -37,6 +37,7 @@
 - [OpenAI API demo](./openai-demo/openai-demo.ipynb)
 - [Telegram Chatbot using openAI API ](./telegram-chatbot/telegram_chatbot.py)
 - [Fine Tunning OpenAI Model for Classification Tasks](./FineTunningOpenAIModelForClassification.ipynb)
+- [Audio Translation to Text using whisper model + Language translation using GPT-4 ](./audio-translation/app.py)
 
 ## Resources 
 - [Generative AI for Developers – Comprehensive Course](https://www.youtube.com/watch?v=F0GQ0l2NfHA)
