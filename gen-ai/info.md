@@ -39,6 +39,9 @@
 - [Fine Tunning OpenAI Model for Classification Tasks](./FineTunningOpenAIModelForClassification.ipynb)
 - [Audio Translation to Text using whisper model + Language translation using GPT-4 ](./audio-translation/app.py)
 - [Image generator using the openAI DALL·E model](./image-generator/app.py)
+- [Vector Database - ChromaDB](./vectorDB/ChromaDB.ipynb)
+- [Vector Database - Pinecone](./vectorDB/pinecone/Pinecone.ipynb)
+
 
 ## Resources 
 - [Generative AI for Developers – Comprehensive Course](https://www.youtube.com/watch?v=F0GQ0l2NfHA)
