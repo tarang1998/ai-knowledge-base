@@ -41,6 +41,11 @@
 - [Image generator using the openAI DALL·E model](./image-generator/app.py)
 - [Vector Database - ChromaDB](./vectorDB/ChromaDB.ipynb)
 - [Vector Database - Pinecone](./vectorDB/pinecone/Pinecone.ipynb)
+- [Introduction to LangChain](./langchain/IntroToLangChain.ipynb)
+
+## Projects 
+
+- [Interview Question Generator](https://github.com/tarang1998/InterviewQuestionCreator)
 
 
 ## Resources 
@@ -50,3 +55,4 @@
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Hugging face](https://huggingface.co/)
 - [OpenAI python API docs](https://github.com/openai/openai-python)
+- [LangChain Github Repo](https://github.com/langchain-ai/langchain?tab=readme-ov-file)
