@@ -46,6 +46,7 @@
 ## Projects 
 
 - [Interview Question Generator](https://github.com/tarang1998/InterviewQuestionCreator)
+- [Chatbot Application Using OpenAI LLM](./ChatBotApplication.ipynb)
 
 
 ## Resources 
