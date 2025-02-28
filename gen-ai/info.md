@@ -49,6 +49,7 @@
 
 - [Interview Question Generator](https://github.com/tarang1998/InterviewQuestionCreator)
 - [Chatbot Application Using OpenAI LLM](./ChatBotApplication.ipynb)
+- [Chatbot Application Using Llama2](./llama2/ChatBotUsingLLama2.ipynb)
 
 
 
