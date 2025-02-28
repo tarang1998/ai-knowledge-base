@@ -42,6 +42,7 @@
 - [Vector Database - ChromaDB](./vectorDB/ChromaDB.ipynb)
 - [Vector Database - Pinecone](./vectorDB/pinecone/Pinecone.ipynb)
 - [Introduction to LangChain](./langchain/IntroToLangChain.ipynb)
+- [Running Quantized Llama2 model from Hugging Face](./llama2/RunningQuantizedLlama2FromHuggingFace.ipynb)
 
 ## Projects 
 
