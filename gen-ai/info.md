@@ -43,11 +43,13 @@
 - [Vector Database - Pinecone](./vectorDB/pinecone/Pinecone.ipynb)
 - [Introduction to LangChain](./langchain/IntroToLangChain.ipynb)
 - [Running Quantized Llama2 model from Hugging Face](./llama2/RunningQuantizedLlama2FromHuggingFace.ipynb)
+- [Llama2 with LangChain](./llama2/LLama2withLangChain.ipynb)
 
 ## Projects 
 
 - [Interview Question Generator](https://github.com/tarang1998/InterviewQuestionCreator)
 - [Chatbot Application Using OpenAI LLM](./ChatBotApplication.ipynb)
+
 
 
 ## Resources 
