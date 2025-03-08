@@ -46,6 +46,7 @@
 - [Llama2 with LangChain](./llama2/LLama2withLangChain.ipynb)
 - [Running Falcon7B model with LangChain](./falcon/Falcon7B_LangChain.ipynb)
 - [Information Retrieval using Falcon7B, ChromaDB and LangChain](./falcon/InformationRetrieval_Falcon7B,ChromaDB,LangChain.ipynb)
+- [RAG demo using OpenAI, ChromaDB and LangChain](./rag/rag-demo/app.py)
 
 ## Projects 
 
