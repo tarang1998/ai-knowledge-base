@@ -44,6 +44,8 @@
 - [Introduction to LangChain](./langchain/IntroToLangChain.ipynb)
 - [Running Quantized Llama2 model from Hugging Face](./llama2/RunningQuantizedLlama2FromHuggingFace.ipynb)
 - [Llama2 with LangChain](./llama2/LLama2withLangChain.ipynb)
+- [Running Falcon7B model with LangChain](./falcon/Falcon7B_LangChain.ipynb)
+- [Information Retrieval using Falcon7B, ChromaDB and LangChain](./falcon/InformationRetrieval_Falcon7B,ChromaDB,LangChain.ipynb)
 
 ## Projects 
 
