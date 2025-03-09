@@ -47,6 +47,7 @@
 - [Running Falcon7B model with LangChain](./falcon/Falcon7B_LangChain.ipynb)
 - [Information Retrieval using Falcon7B, ChromaDB and LangChain](./falcon/InformationRetrieval_Falcon7B,ChromaDB,LangChain.ipynb)
 - [RAG demo using OpenAI, ChromaDB and LangChain](./rag/rag-demo/app.py)
+- [RAG Application - Information retrieval from PDF using Google Gemini, ChromaDB and LangChain](./rag/rag-gemini/app.py)
 
 ## Projects 
 
