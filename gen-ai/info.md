@@ -48,6 +48,10 @@
 - [Information Retrieval using Falcon7B, ChromaDB and LangChain](./falcon/InformationRetrieval_Falcon7B,ChromaDB,LangChain.ipynb)
 - [RAG demo using OpenAI, ChromaDB and LangChain](./rag/rag-demo/app.py)
 - [RAG Application - Information retrieval from PDF using Google Gemini, ChromaDB and LangChain](./rag/rag-gemini/app.py)
+- [Parameter Efficient Fine Tunning (LORA) of the LLama2-7B-Chat model](./fine-tunning/Parameter_efficient_FineTunning_Llama2_7B_chat_model.ipynb)
+- [Testing the Fine Tunned LLama-7B-Chat model](./fine-tunning/Parameter_efficient_FineTunning_Llama2_7B_chat_model.ipynb)
+- [Information Retrieval from docs using LLamaIndex, Gemini model](./llama-index/InformationRetrievalFromDocsUsingLLamaIndex_Gemini.ipynb)
+
 
 ## Projects 
 
