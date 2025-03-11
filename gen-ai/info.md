@@ -52,6 +52,8 @@
 - [Testing the Fine Tunned LLama-7B-Chat model](./fine-tunning/Parameter_efficient_FineTunning_Llama2_7B_chat_model.ipynb)
 - [Information Retrieval from docs using LLamaIndex, Gemini model](./llama-index/InformationRetrievalFromDocsUsingLLamaIndex_Gemini.ipynb)
 - [Exploring the mistral model with llama-index](./llama-index/Exploring_Mistral_model_using_LLama_index.ipynb)
+- [Stock Analysis Using LLama-index and OpenAI model](https://github.com/tarang1998/Stock-Analysis)
+- [Body Building Chatbot using LangChain, PineCone, OpenAI](https://github.com/tarang1998/bodyScienceLLM)
 
 
 ## Projects 
