@@ -17,12 +17,14 @@ This repository serves as my personal knowledge base and learning portfolio, doc
 <summary><strong>🧠 Deep Learning</strong></summary>
 
 - [The spelled-out intro to neural networks and backpropagation: building micrograd - Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=3)
-    - [Back propogation in Neural Networks from scratch](./deep-learning/Back_propogation_in_Neural_Networks_From_Scratch.ipynb)
+    - [Back propogation in Neural Networks from scratch - Python Notebook](./deep-learning/Back_propogation_in_Neural_Networks_From_Scratch.ipynb)
+- [Deep learning library in Python](https://github.com/tarang1998/microtorch)
 </details>
 
 
 <details>
 <summary><strong>🎯 Generative AI</strong></summary>
 
+- [Deep Dive into LLMs like ChatGPT - Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 </details>
 
